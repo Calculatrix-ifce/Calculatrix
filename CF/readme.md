@@ -1,5 +1,3 @@
----
-
 # 📱 Calculatrix
 
 **Calculatrix** é um sistema simples desenvolvido por alunos do IFCE - Campus Maranguape, como parte da disciplina de Programação Orientada a Objetos (POO). O projeto simula uma aplicação de uma empresa fictícia e combina três módulos principais:
